@@ -1,2 +1,2 @@
 # BeWizard-UI
-Quiz Srvey
+Quiz Survey
